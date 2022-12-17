@@ -1,5 +1,11 @@
 {
   "item.testmod.bagjet": "Bagjet",
   "item.testmod.bagjel": "Bagiel",
-  "item.testmod.flour": "Flour"
+  "item.testmod.flour": "Flour",
+  "item.testmod.niga_flour": "Niga Flour",
+
+  "block.testmod.flour_block": "Flour Block",
+  "block.testmod.niga_flour_block": "Niga Flour Block",
+
+  "itemGroup.testmod.Nothing Mod": "Nothing Mod"
 }
